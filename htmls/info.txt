@@ -1,0 +1,1 @@
+We must move some .html to root and open it on server
